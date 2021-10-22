@@ -1,18 +1,18 @@
-body {
-  font-family:Arial, Helvetica, sans-serif;
-}
-
-.projectBox {
-  width: 400px;
-  padding: 10px;
-  border:mediumslateblue;
-  border-width: 10px;
-  margin-bottom: 10px;
-  box-sizing: border-box;
+.projectBox{
+  width: 250px;
+  margin: 12px;
+  border: 2px solid darkolivegreen;
+  padding: 4px;
+  background-color: whitesmoke;
+  box-sizing:border-box;
 }
 
 img {
   width: 250px;
   border: 5px solid black;
   border-radius: 25px;
+}
+
+body {
+  font-family:Arial, Helvetica, sans-serif;
 }
