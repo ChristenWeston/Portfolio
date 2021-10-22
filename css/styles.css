@@ -1,0 +1,14 @@
+.projectBox {
+  width: 400px;
+  padding: 10px;
+  border:mediumslateblue;
+  border-width: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+img {
+  width: 250px;
+  border: 5px solid black;
+  border-radius: 25px;
+}
