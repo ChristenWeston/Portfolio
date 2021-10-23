@@ -4,6 +4,8 @@
 
 #### This is a webpage for Christen Weston's portfolio
 
+[GitHub pages site](https://christenweston.github.io/Portfolio/)
+
 ## Technologies Used
 
 * Git
