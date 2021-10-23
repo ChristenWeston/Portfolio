@@ -9,3 +9,15 @@
 * Git
 * HTML
 * CSS
+
+## Setup Installation Requirements
+
+1. Clone the Portfolio repository
+2. Open it in VS Code using command code .
+3. Enjoy!
+
+# Known Bugs
+* None known
+
+## License Info
+[MIT License](https://opensource.org/licenses/MIT)
