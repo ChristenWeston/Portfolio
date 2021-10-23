@@ -21,5 +21,8 @@
 # Known Bugs
 * None known
 
+## Date Published
+October 2021
+
 ## License Info
 [MIT License](https://opensource.org/licenses/MIT)
