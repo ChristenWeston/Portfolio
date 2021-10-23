@@ -45,6 +45,10 @@ img {
   border-radius: 75px;
 }
 
+.hilight {
+  background-color: rgb(242, 214, 255);
+}
+
 body {
   font-family:Arial, Helvetica, sans-serif;
   margin: 40px;
