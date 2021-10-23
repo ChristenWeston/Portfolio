@@ -3,7 +3,7 @@
 }
 
 .projectBox{
-  width: 250px;
+  width: 450px;
   margin: 35px;
   border: 2px solid lightseagreen;
   padding: 4px;
@@ -18,12 +18,13 @@
 .projectBox p {
   font-size: smaller;
   text-align: justify;
-  min-height: 45px;
+  min-height: 125px;
   margin: 5px;
 }
 
 .projectBox ul {
   margin: 5px;
+  margin-bottom: 0px;
 }
 
 .projectBox li {
@@ -39,7 +40,7 @@ img {
   margin: 30px;
   border-width: 15px;
   flex-wrap: wrap;
-  width: 340px;
+  width: 250px;
   border: 5px solid black;
   border-radius: 75px;
 }
